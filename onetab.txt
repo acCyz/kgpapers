@@ -1,0 +1,74 @@
+https://pdos.csail.mit.edu/6.824/schedule.html | 6.824 Schedule: Spring 2022
+https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html | 6.824 Lab 3: Fault-tolerant Key/Value Service
+https://github.com/OneSizeFitsQuorum/MIT6.824-2021/blob/master/docs/lab4.md | MIT6.824-2021/lab4.md at master · OneSizeFitsQuorum/MIT6.824-2021
+https://github.com/OneSizeFitsQuorum/MIT6.824-2021/blob/master/docs/lab3.md | MIT6.824-2021/lab3.md at master · OneSizeFitsQuorum/MIT6.824-2021
+https://www.sofastack.tech/blog/sofa-jraft-linear-consistent-read-implementation/ | SOFAJRaft 线性一致读实现剖析 | SOFAJRaft 实现原理 · SOFAStack
+https://pdos.csail.mit.edu/6.824/labs/lab-shard.html | 6.824 Lab 4: Sharded Key/Value Service
+https://zhuanlan.zhihu.com/p/409202462 | MIT 6.824 - Raft学生指南 - 知乎
+https://geektutu.com/post/hpg-sync-cond.html | Go sync.Cond | Go 语言高性能编程 | 极客兔兔
+https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/lecture-08-zookeeper/8.4-zookeeper | 8.4 Zookeeper - MIT6.824
+https://zhuanlan.zhihu.com/p/528889315 | 6.824（sp2022）实验汇总 - 知乎
+https://github.com/wangdh15/6.824-lab/blob/5695c2c22f28123a49875990d27a03c463969f71/src/raft/raft_append_timeout.go | 6.824-lab/raft_append_timeout.go at 5695c2c22f28123a49875990d27a03c463969f71 · wangdh15/6.824-lab
+https://github.com/wangdh15/6.824-lab/blob/5695c2c22f28123a49875990d27a03c463969f71/src/shardkv/common.go#L113 | 6.824-lab/common.go at 5695c2c22f28123a49875990d27a03c463969f71 · wangdh15/6.824-lab
+https://blog.csdn.net/qq_39446719/article/details/122062798?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5-122062798-blog-122221681.pc_relevant_multi_platform_whitelistv2_ad_hc&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5-122062798-blog-122221681.pc_relevant_multi_platform_whitelistv2_ad_hc&utm_relevant_index=6 | (26条消息) mit_6.824_2021_lab4B_Sharded_Key/Value_Server_一把健的博客-CSDN博客
+https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn/blob/master/raft-thesis-zh_cn.md#512-%E4%BD%95%E6%97%B6%E6%8B%8D%E6%91%84%E5%BF%AB%E7%85%A7 | raft-thesis-zh_cn/raft-thesis-zh_cn.md at master · OneSizeFitsQuorum/raft-thesis-zh_cn
+https://howardlau.me/programming/mit-6-824-spring-2021-raft-lab-implementation-notes.html | MIT 6.824 Spring 2021 Raft Lab 实现笔记 – CodeTalks
+https://cn.bing.com/search?q=readindex&form=ANNTH1&refig=ccfc6c2f8a294414b671674fe56dd7bd | readindex - Search
+https://blog.csdn.net/Cassie_zkq/article/details/115724570 | (26条消息) 【学习笔记】如何理解Raft中的ReadIndex？__奶酪的博客-CSDN博客
+https://juejin.cn/post/7045607498308878367 | Raft Read Index 实现轻量级线性一致读 - 掘金
+https://pingcap.com/zh/blog/linearizability-and-raft#%E7%BA%BF%E6%80%A7%E4%B8%80%E8%87%B4%E6%80%A7%E5%92%8C-raft | 线性一致性和 Raft | PingCAP
+https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f377c8d358fb4e21a3223762352a83b3~tplv-k3u1fbpfcp-watermark.image | f377c8d358fb4e21a3223762352a83b3~tplv-k3u1fbpfcp-watermark.image (1110×642)
+https://github.com/jy5275/mit-6.824-lab | jy5275/mit-6.824-lab
+https://ray-eldath.me/programming/deep-dive-in-6824/#%E7%BB%93%E8%AF%AD | 深入 MIT 6.824：实现 LeaseRead 和全异步 shardkv - Ray Eldath's Blog
+
+https://www.zhihu.com/question/380389645 | 个人知识图谱怎么落地与应用？ - 知乎
+https://blog.csdn.net/qq_39381654/article/details/124019943 | (26条消息) 【科研分享】推荐系统SCI顶会及顶级期刊 更新于2022-07-13_JinyuZ1996的博客-CSDN博客_推荐系统会议
+https://zhuanlan.zhihu.com/p/417652612 | Recsys2021 | 推荐系统论文分类整理和导读 - 知乎
+https://www.zhihu.com/column/c_1410364359926906880 | 推荐与广告-最新论文追踪 - 知乎
+https://zhuanlan.zhihu.com/p/361341288 | 从200多篇顶会论文看推荐系统前沿方向与最新进展 - 知乎
+https://zhuanlan.zhihu.com/p/467279685 | 推荐系统工业界顶会论文总结——RecSys 2021 - 知乎
+https://zhuanlan.zhihu.com/p/388115800 | KDD 21 工业界搜推广nlp论文整理 - 知乎
+https://recbole.io/cn/model_list.html | 模型 | 伯乐
+https://blog.csdn.net/ld326/article/details/113868889 | (26条消息) [论文阅读笔记17]A Survey on Knowledge Graph-Based Recommender Systems_happyprince的博客-CSDN博客
+https://cn.bing.com/search?q=KGNN-ls&qs=n&form=QBRE&sp=-1&pq=kgnn-l%27s&sc=0-8&sk=&cvid=11E2B4B53B75499793AEE779CBD9816D&ghsh=0&ghacc=0&ghpl= | KGNN-ls - Search
+https://haiping.vip/2019/10/15/KGNN-LS/ | 推荐系统&知识图谱(5)---KGNN-LS - weber's Blog
+https://www.hikg.net/archives/124/ | KGCN、KGNN-LS、KGAT的简要介绍以及简单对比 - Hello, Knowledge Graph
+https://blog.csdn.net/qq_38420451/article/details/115179799 | (26条消息) KGNN-LS 2019 (KDD) Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Re_TVfan的博客-CSDN博客
+https://blog.csdn.net/byn12345/article/details/105767122 | (26条消息) 【转载】斯坦福大学博士后王鸿伟: 知识图谱辅助的个性化推荐系统_byn12345的博客-CSDN博客
+https://www.zhihu.com/question/486699710 | 图神经网络和知识图谱前景怎么样？在推荐系统领域有什么进展？ - 知乎
+https://zhuanlan.zhihu.com/p/337478373 | 推荐- Point wise、pairwise及list wise的比较 - 知乎
+https://zhuanlan.zhihu.com/p/420104607 | 排序主要的三种损失函数（pointwise、pairwise、listwise） - 知乎
+https://arxiv.org/abs/2206.07472 | [2206.07472] Collaborative Knowledge Graph Fusion by Exploiting the Open Corpus
+https://mp.weixin.qq.com/s?__biz=MzU1NTU3Njg4Mw==&mid=2247496772&idx=2&sn=36fc53457a27e535ca8161fb08d90a10&chksm=fbd08f18cca7060ec310e3b79b2d4b951a8ec472ae83f8dccccf8ac05bfd23745af9045c8b1d&mpshare=1&scene=23&srcid=07207zclggH2o5OeCKaczbCQ&sharer_sharetime=1658290341822&sharer_shareid=00c1a872ceb3cb86a0ccd80d4fced790#rd | 图的重要性计算必读：节点重要性与节点间相关性计算中的中心度和PersonalRank算法总结与实现
+https://blog.csdn.net/bjxxkjdxcdd/article/details/115056940 | (26条消息) 实体对齐（Entity Alignment）相关论文与数据集整理_BISTU_CD的博客-CSDN博客_实体对齐数据集
+https://xueshu.dailyheadlines.cc/scholar?hl=zh-CN&as_sdt=0%2C5&q=collaborative+knowledge+graph&btnG= | collaborative knowledge graph - Google 学术搜索
+
+https://mp.weixin.qq.com/s/EMi5JjRYHfcDW1fURrqggA | 华为、人大、清华和港中文联合发布推荐系统的Benchmarking
+https://www.kaggle.com/datasets?search=recommend&page=3 | Find Open Datasets and Machine Learning Projects | Kaggle
+
+https://zhuanlan.zhihu.com/p/371162633 | 论文解读系列第十六篇：IJCAI 2021--跨域推荐（Cross-Domain Recommendation）的最新综述 - 知乎
+https://www.zhihu.com/question/23005860 | 简单解释下什么是跨域推荐 cross domain recommedation? - 知乎
+https://zhuanlan.zhihu.com/p/395211316 | 跨域推荐——EMCDR、TMCDR - 知乎
+https://cn.bing.com/search?q=Cross-Domain+Recommendation%3A+Challenges%2C+Progress%2C+and+Prospects&cvid=c5894ab13bd846d4ad1b8aef277834dd&aqs=edge..69i57.765j0j1&pglt=171&FORM=ANNTA1&PC=U531 | Cross-Domain Recommendation: Challenges, Progress, and Prospects - 搜索
+http://www.zyl.cool/cross-domain-recommendation-challenges-progress-and-prospects/ | Cross-Domain Recommendation: Challenges, Progress, and Prospects – 摸鱼网
+https://blog.csdn.net/weixin_44289754/article/details/120008929 | (26条消息) 一文梳理跨域推荐研究进展_机器学习与推荐算法的博客-CSDN博客
+
+https://cn.bing.com/search?q=%e6%8e%a8%e8%8d%90%e7%ae%97%e6%b3%95+%e5%a4%9a%e6%a0%b7%e6%80%a7%e8%ae%a1%e7%ae%97&qs=n&sp=-1&pq=%e6%8e%a8%e8%8d%90%e7%ae%97%e6%b3%95+%e5%a4%9a%e6%a0%b7%e6%80%a7ji%27suan&sc=0-15&sk=&cvid=B293FEBE2A4D4495A117766AADB94320&ghsh=0&ghacc=0&first=10&FORM=PORE | 推荐算法 多样性计算 - 搜索
+https://blog.csdn.net/xixiaoyaoww/article/details/112551295 | (26条消息) 聊聊如何提升推荐系统的结果多样性_夕小瑶的博客-CSDN博客
+https://zhuanlan.zhihu.com/p/433327217 | 推荐只需要精确？顶会论文看多样化推荐研究趋势 - 知乎
+https://blog.csdn.net/allenalex/article/details/51318270 | (26条消息) 推荐系统的评价指标总结_aturbofly的博客-CSDN博客_推荐系统评价指标
+https://ir.sdu.edu.cn/~zhuminchen/RS/evaluation.pdf | 在地
+https://cn.bing.com/search?q=Cross-Domain+Recommendation%3A+Challenges%2C+Progress%2C+and+Prospects+&form=ANNTH1&refig=d74cf8874e7b4fe5a19ca58d36572747 | Cross-Domain Recommendation: Challenges, Progress, and Prospects - 搜索
+https://zhuanlan.zhihu.com/p/371162633 | 论文解读系列第十六篇：IJCAI 2021--跨域推荐（Cross-Domain Recommendation）的最新综述 - 知乎
+https://cn.bing.com/search?q=%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%96%B0%E9%A2%96%E6%80%A7&form=ANNTH1&refig=90a6bbe5fb954eada4d2825c682a765d&sp=1&qs=UT&pq=%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%96%B0%E9%A2%96&sk=PRES1&sc=1-6&cvid=90a6bbe5fb954eada4d2825c682a765d | 推荐系统新颖性 - 搜索
+https://blog.csdn.net/qq_27075943/article/details/84842149 | (26条消息) 【推荐系统】1. 模型评价指标_阿泽的学习笔记的博客-CSDN博客
+https://blog.csdn.net/qq_27590277/article/details/106263984?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-4-106263984-blog-84842149.pc_relevant_multi_platform_whitelistv1&spm=1001.2101.3001.4242.3&utm_relevant_index=7 | (26条消息) 【推荐系统】推荐系统研究中常用的评价指标_zenRRan的博客-CSDN博客
+https://zhuanlan.zhihu.com/p/399517189 | RecSys 2020论文解读-PURS模型-提升推荐新颖性 - 知乎
+https://cn.bing.com/search?q=%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95+%E6%96%B0%E9%A2%96%E6%80%A7&qs=n&form=QBRE&sp=-1&pq=%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95+%E6%96%B0%E9%A2%96%E6%80%A7&sc=8-8&sk=&cvid=68DBD8B911144413B3FB026581C103B5&ghsh=0&ghacc=0 | 推荐算法 新颖性 - 搜索
+https://cn.bing.com/search?q=%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%83%8A%E5%96%9C%E5%BA%A6&qs=n&form=QBRE&sp=-1&pq=%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%83%8A%E5%96%9Cdu&sc=0-8&sk=&cvid=6C0D9EA8E33E4C8891AD2F61A7CC37CB&ghsh=0&ghacc=0 | 推荐系统惊喜度 - 搜索
+https://zhuanlan.zhihu.com/p/79595452 | 评价推荐系统的几个标准 - 知乎
+https://zhuanlan.zhihu.com/p/266430359#:~:text=%E6%83%8A%E5%96%9C%E5%BA%A6%E6%98%AF%E8%BF%91%E5%B9%B4%E6%9D%A5%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%A2%86%E5%9F%9F%E4%B8%AD%E9%9D%9E%E5%B8%B8%E7%83%AD%E9%97%A8%E7%9A%84%E7%A0%94%E7%A9%B6%E8%AF%9D%E9%A2%98%E3%80%82%20%E4%BD%86%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E6%98%AF%EF%BC%8C%E6%83%8A%E5%96%9C%E5%BA%A6%E4%B8%8E%E6%96%B0%E9%A2%96%E6%80%A7%E6%98%AF%E6%88%AA%E7%84%B6%E4%B8%8D%E5%90%8C%E7%9A%84%E3%80%82,%E6%83%8A%E5%96%9C%E5%BA%A6%E6%98%AF%E6%8C%87%E4%B8%BA%E7%94%A8%E6%88%B7%E8%BF%9B%E8%A1%8C%E7%9A%84%E6%8E%A8%E8%8D%90%E4%B8%8E%E7%94%A8%E6%88%B7%E7%9A%84%E5%8E%86%E5%8F%B2%E5%85%B4%E8%B6%A3%E4%B8%8D%E4%B8%80%E8%87%B4%EF%BC%8C%E4%BD%86%E7%94%A8%E6%88%B7%E5%8D%B4%E5%AF%B9%E6%8E%A8%E8%8D%90%E7%BB%93%E6%9E%9C%E6%84%9F%E5%88%B0%E6%BB%A1%E6%84%8F%20%E3%80%82%20%E5%9B%A0%E6%AD%A4%EF%BC%8C%E4%B8%BA%E5%AE%8C%E6%88%90%E6%83%8A%E5%96%9C%E5%BA%A6%E8%BE%83%E9%AB%98%E7%9A%84%E6%8E%A8%E8%8D%90%EF%BC%8C%E9%9C%80%E8%A6%81%E5%B0%86%E6%8E%A8%E8%8D%90%E7%BB%93%E6%9E%9C%E4%B8%8E%E7%94%A8%E6%88%B7%E5%8E%86%E5%8F%B2%E5%85%B4%E8%B6%A3%E5%8A%A0%E4%BB%A5%E5%8C%BA%E5%88%AB%EF%BC%8C%E5%B9%B6%E6%8F%90%E9%AB%98%E7%94%A8%E6%88%B7%E7%9A%84%E6%BB%A1%E6%84%8F%E5%BA%A6%E3%80%82 | 推荐系统入门（一）：概述 - 知乎
+https://www.cnblogs.com/hellojamest/p/11713132.html | Paper Reading:推荐系统评价指标综述 - Jamest - 博客园
+
+https://pingcap.com/zh/blog/optimizing-raft-in-tikv | TiKV 功能介绍 - Raft 的优化 | PingCAP
+https://github.com/hzh0425?tab=repositories | hzh0425 (hzh0425) / Repositories
